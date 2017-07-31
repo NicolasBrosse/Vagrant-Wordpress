@@ -18,3 +18,7 @@ Je me suis donc orienté vers [Vagrant](https://www.vagrantup.com) pour un envir
 - [Vagrant](https://www.vagrantup.com) pour l'automatisation et la configuration des machines virtuelles
 - [Ansible](https://www.ansible.com) pour le provisionnement de Vagrant
 - git pour le versionning des fichiers
+
+# Remarques
+
+Pour la configuration Ansible, je me suis inspiré des [exemples donnés sur le compte github dédié](https://github.com/ansible/ansible-examples/tree/master/wordpress-nginx).
