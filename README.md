@@ -2,6 +2,8 @@
 
 Il s'agit ici d'un travail personnel qui consiste à créer et paramétrer un environnement de développement local avec Vagrant, Ansible et Wordpress.
 
+Pour l'instant, j'utilise [Varying-Vagrant-Vagrants](https://github.com/Varying-Vagrant-Vagrants/VVV) qui a les mêmes objectifs, est beaucoup plus avancé et semble avoir été adopté par la communauté Wordpress. Mais le but est ici de mettre les mains dans le camboui pour apprendre et de construire un environnement adapté à mes besoins et mon niveau.
+
 # Historique
 
 Le but a été au départ de mettre en place un serveur web local afin d'y installer Wordpress.
